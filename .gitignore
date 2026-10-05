@@ -1,0 +1,15 @@
+# Children's data and secrets never go into the repo
+data/
+spike-data/
+sessions/
+browser-profile/
+raw/
+masked/
+probe-*.log
+.env
+*.age
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
